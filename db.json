@@ -1,13 +1,13 @@
-{        
-"appid": "0",
-"applications":[
-        	{"app": "Email",
-        	 "status": "Success"
-        	},
-        	{"app": "SMS",
-        	 "status": "Fail"
-        	}
-               
-        	    
-        	     ]
-	}
+{  
+   "appid":"0",
+   "applications":[  
+      {  
+         "app":"Email",
+         "status":"Success"
+      },
+      {  
+         "app":"SMS",
+         "status":"Fail"
+      }
+   ]
+}
